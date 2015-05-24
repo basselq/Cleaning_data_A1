@@ -1,3 +1,6 @@
+This file explains the original data sets.
+"Code_Book.txt" explains what the file "run_analysis.R" does and what the output file "Tidy.txt" contains.
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
